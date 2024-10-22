@@ -28,7 +28,7 @@ body {
   .cartao__conteudo p {
     padding: 4rem;
   }
-  cartao__conteudo h3 {
+  .cartao__conteudo h3 {
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
